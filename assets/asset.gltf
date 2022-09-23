@@ -93,29 +93,8 @@
       "byteLength": 610400
     }
   ],
-  "images": [
-    {
-      "uri": "BaseColor.png",
-      "mimeType": "image/png",
-      "name": "pipeimage"
-    }
-  ],
   "materials": [
     {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.1,
-        "baseColorTexture": {
-          "index": 0,
-          "texCoord": 0
-        }
-      },
       "emissiveFactor": [
         0.0,
         0.0,
